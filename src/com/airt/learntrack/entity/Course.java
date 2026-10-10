@@ -12,12 +12,12 @@ public class Course {
     }
     //Parameterized constructor
 
-    public Course(int id, String courseName, String description, int durationInWeeks, boolean active) {
+    public Course(int id, String courseName, String description, int durationInWeeks) {
         this.id = id;
         this.courseName = courseName;
         this.description = description;
         this.durationInWeeks = durationInWeeks;
-        this.active = active;
+        this.active = true;
     }
     //Getter setters
 
