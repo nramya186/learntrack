@@ -1,6 +1,6 @@
 # LearnTrack
 
-Student & Course Management System - Core Java Project
+Student & Course Management System - Core Java Project.
 
 ## Features
 - Student Management
